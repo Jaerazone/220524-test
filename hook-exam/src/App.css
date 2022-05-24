@@ -1,0 +1,42 @@
+.main_section {
+    background-color: aquamarine;
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.contain_section {
+    padding: 20px;
+}
+
+.clock_section {
+    border: 10px dashed whitesmoke;
+    border-radius: 20px;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;    
+}
+
+button {
+    background-color: antiquewhite;
+    border: 0px ;
+    margin-left: 10px;
+    font-size: x-large;
+    color: rgb(0, 122, 47);
+}
+
+input {
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: none;
+}
+li{
+    font-size: large;
+}
+
+
